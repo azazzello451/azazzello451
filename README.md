@@ -13,7 +13,7 @@
 | Project | Tools | Output |
 |---|---|---|
 | [HR Attrition – Salifort Motors](https://github.com/azazzello451/salifort-motors-hr-analysis) | Python · XGBoost · Power BI | Churn prediction + interactive dashboard |
-| [Illinois Mortgage Fairness](https://github.com/azazzello451/illinois-mortgage-fairness) | Python · XGBoost · Streamlit | Credit denial prediction + web app |
+| [Illinois Mortgage Fairness](https://github.com/azazzello451/hmda-illinois-mortgage-analysis) | Python · XGBoost · Streamlit | Credit denial prediction + web app |
 | [Olist E-Commerce Intelligence](https://github.com/azazzello451/olist-marketing-intelligence) | BigQuery · SQL · Power BI | Customer analysis + live dashboard |
 
 ---
